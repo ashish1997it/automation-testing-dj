@@ -156,5 +156,5 @@ Preserving test database for alias 'default'...
 ---
 ## TestCaseReport_TestLoginUser.csv
 	- file open in LibreOffice Calc
-<kbd><img src="/imgs-readme/django_default-page_v1-1_censored.jpg" alt="django_default-page_v1-1" title="django_default-page"></img></kbd>
+<kbd><img src="/imgs-readme/screenshot-from-2019-10-20-22-54-00.png" alt="django_default-page_v1-1" title="django_default-page"></img></kbd>
 
