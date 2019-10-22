@@ -164,5 +164,5 @@ Preserving test database for alias 'default'...
 - https://www.getpostman.com/collections/1b078e77e78bfb33876b
 
 ---
-## Medium Link
+## Medium Article Link
 - https://medium.com/@sondagarashish/8235fedfc61
